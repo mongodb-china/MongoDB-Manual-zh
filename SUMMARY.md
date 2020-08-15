@@ -69,6 +69,7 @@
         * [Perform Incremental Map-Reduce](docs/Aggregation/Map-Reduce/Perform-Incremental-Map-Reduce.md)
         * [Troubleshoot the Map Function](docs/Aggregation/Map-Reduce/Troubleshoot-the-Map-Function.md)
         * [Troubleshoot the Reduce Function](docs/Aggregation/Map-Reduce/Troubleshoot-the-Reduce-Function.md)
+        * [Map-Reduce to Aggregation Pipeline](docs/Aggregation/Map-Reduce/Map-Reduce-to-Aggregation-Pipeline.md)
     * [Aggregation Reference](docs/Aggregation/Aggregation-Reference.md)
         * [Aggregation Pipeline Quick Reference](docs/Aggregation/Aggregation-Reference/Aggregation-Pipeline-Quick-Reference.md)
         * [Aggregation Commands](docs/Aggregation/Aggregation-Reference/Aggregation-Commands.md)
@@ -140,9 +141,9 @@
 		* [Resource Document](docs/Security/Security-Reference/Resource-Document.md)
 		* [Privilege Actions](docs/Security/Security-Reference/Privilege-Actions.md)
     * [Appendix](docs/Security/Appendix.md)
-		* [Appendix A - OpenSSL CA Certificate for Testing](docs/Security/Appendix/Appendix-A-OpenSSL-CA-Certificate-for-Testing.md)
-		* [Appendix B - OpenSSL Server Certificates for Testing](docs/Security/Appendix/Appendix-B-OpenSSL-Server-Certificates-for-Testing.md）
-		* [Appendix C - OpenSSL Client Certificates for Testing](docs/Security/Appendix/Appendix-C-OpenSSL-Client-Certificates-for-Testing.md)
+		* [Appendix-A-OpenSSL CA Certificate for Testing](docs/Security/Appendix/Appendix-A-OpenSSL-CA-Certificate-for-Testing.md)
+		* [Appendix-B-OpenSSL-Server-Certificates-for-Testing](docs/Security/Appendix/Appendix-B-OpenSSL-Server-Certificates-for-Testing.md)
+		* [Appendix-C-OpenSSL Client Certificates for Testing](docs/Security/Appendix/Appendix-C-OpenSSL-Client-Certificates-for-Testing.md)
 * [Change Streams](docs/Change-Streams.md)
     * [Change Streams Production Recommendations](docs/Change-Streams/Change-Streams-Production-Recommendations.md)
     * [Change Events](docs/Change-Streams/Change-Event.md)
@@ -183,8 +184,8 @@
 	* Journaling
 		* Manage Journaling
     * GridFS
-* Reference
-    * Operators
+* [Reference]()
+    * [Operators]()
         * [Query and Projection Operators](docs/Reference/Operators/Query-and-Projection-Operators.md)
             * [Comparison Query Operators](docs/Reference/Operators/Query-and-Projection-Operators/Comparison-Query-Operators.md)
                 * [$eq](docs/Reference/Operators/Query-and-Projection-Operators/Comparison-Query-Operators/eq.md)
