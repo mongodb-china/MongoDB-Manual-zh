@@ -21,10 +21,11 @@
           "search-pro",
 	"splitter",
 	"page-toc-button",
-	"lightbox",
 	"auto-scroll-table",
 	"flexible-alerts",
 	"alerts"	
+
+			
     ],
 
     "pluginsConfig": {
@@ -40,7 +41,7 @@
             "buttons": [
               {
                 "user": "JinMuInfo",
-                "repo": "MongoDB-Manual-zh", 
+                "repo": "MongoDB-Manual-zh",
                 "type": "star",
                 "count": true,
                 "size": "small"
@@ -56,8 +57,8 @@
           "modify_label": "文件修订时间：",
           "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-	"github": { 
-		"url": "https://github.com/JinMuInfo/MongoDB-Manual-zh" 
+	"github": {
+		"url": "https://github.com/JinMuInfo/MongoDB-Manual-zh"
 		},
 	 "page-toc-button": {
             "maxTocDepth": 4,
@@ -65,4 +66,6 @@
            }
 	}
 	    
+	
 }
+
